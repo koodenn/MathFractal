@@ -15,7 +15,7 @@
 
 ---
 
-## 🎮 Contrôles & Raccourcis
+## Contrôles & Raccourcis
 
 | Raccourci | Action |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## 📁 Architecture du Projet
+## Architecture du Projet
 
 ```text
 FractaleGen/
@@ -47,7 +47,7 @@ FractaleGen/
 
 ---
 
-## 🚀 Installation & Lancement
+## Installation & Lancement
 
 ### Prérequis
 - **Windows x64**
